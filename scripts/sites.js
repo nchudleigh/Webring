@@ -1,6 +1,7 @@
 'use strict'
 
 const sites = [
+  
   {
     author: 'neauoire',
     contact: 'aliceffekt@gmail.com',
@@ -781,6 +782,14 @@ const sites = [
     feed: 'https://y.eti.tf/twtxt.txt',
     langs: ['en'],
     url: 'https://eti.tf'
+  },
+  {
+    author: 'nchudleigh',
+    contact: '@officialneilc',
+    langs: ['en'],
+    title: 'amilli",
+    type: 'tool',
+    url: 'https://amil.li'
   }
 
 ]
